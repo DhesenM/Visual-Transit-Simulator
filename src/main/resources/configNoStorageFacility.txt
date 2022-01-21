@@ -1,0 +1,39 @@
+LINE_START, BUS_LINE, Campus Connector
+
+ROUTE_START, East Bound
+
+STOP, Blegen Hall, 44.972392, -93.243774, .15
+STOP, Buford at Gortner Avenue, 44.984540, -93.181692, .01
+STOP, St. Paul Student Center, 44.984630, -93.186352, 0
+
+ROUTE_END
+
+ROUTE_START, West Bound
+
+STOP, St. Paul Student Center, 44.984630, -93.186352, .35
+STOP, Buford at Gortner Avenue, 44.984482, -93.181657, .05
+STOP, Blegen Hall, 44.972638, -93.243591, 0
+
+ROUTE_END
+
+LINE_END
+
+LINE_START, TRAIN_LINE, Express Train
+
+ROUTE_START, East Bound Train
+
+STOP, Stadium Village, 44.974769, -93.222770, .15
+STOP, Water Tower, 44.969139, -93.210371, .3
+STOP, Raymond, 44.963552, -93.195403, 0
+
+ROUTE_END
+
+ROUTE_START, West Bound Train
+
+STOP, Raymond, 44.963552, -93.195403, .35
+STOP, Water Tower, 44.968721, -93.209862, .2
+STOP, Stadium Village, 44.974769, -93.222770, 0
+
+ROUTE_END
+
+LINE_END

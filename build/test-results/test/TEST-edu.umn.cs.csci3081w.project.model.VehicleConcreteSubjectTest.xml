@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.umn.cs.csci3081w.project.model.VehicleConcreteSubjectTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-12-08T07:14:08" hostname="Haodes-MacBook-Pro.local" time="0.014">
+  <properties/>
+  <testcase name="testNotifyObservers()" classname="edu.umn.cs.csci3081w.project.model.VehicleConcreteSubjectTest" time="0.009"/>
+  <testcase name="testDetachObserver()" classname="edu.umn.cs.csci3081w.project.model.VehicleConcreteSubjectTest" time="0.001"/>
+  <testcase name="testAttachObserver()" classname="edu.umn.cs.csci3081w.project.model.VehicleConcreteSubjectTest" time="0.001"/>
+  <testcase name="testConstructor()" classname="edu.umn.cs.csci3081w.project.model.VehicleConcreteSubjectTest" time="0.001"/>
+  <system-out><![CDATA[class loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession
+class loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession
+class loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession
+class loaded class edu.umn.cs.csci3081w.project.webserver.WebServerSession
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

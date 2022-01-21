@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.umn.cs.csci3081w.project.model.VehicleTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-12-08T07:14:07" hostname="Haodes-MacBook-Pro.local" time="0.028">
+  <properties/>
+  <testcase name="testMove()" classname="edu.umn.cs.csci3081w.project.model.VehicleTest" time="0.002"/>
+  <testcase name="testIsTripComplete()" classname="edu.umn.cs.csci3081w.project.model.VehicleTest" time="0.001"/>
+  <testcase name="testProvideInfo()" classname="edu.umn.cs.csci3081w.project.model.VehicleTest" time="0.019"/>
+  <testcase name="testUpdate()" classname="edu.umn.cs.csci3081w.project.model.VehicleTest" time="0.001"/>
+  <testcase name="testConstructor()" classname="edu.umn.cs.csci3081w.project.model.VehicleTest" time="0.001"/>
+  <testcase name="testLoadPassenger()" classname="edu.umn.cs.csci3081w.project.model.VehicleTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
